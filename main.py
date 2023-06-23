@@ -1,5 +1,5 @@
-print("CALCULATOR")
-num_a = int(input("Enter the first number: "))
-num_b = int(input("Enter the second number: "))
-sum = num_a + num_b
-print(f"{num_a} + {num_b} = {sum}")
+print("Hello, World")
+a = 5
+b = 6
+sum = a + b
+print("the sum of 5 and 6 is: {sum}")
